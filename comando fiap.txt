@@ -1,0 +1,1 @@
+Add-MpPreference -AttackSurfaceReductionOnlyExclusions "C:\Users\labsfiap\Documents\GitHub\C--Development"
